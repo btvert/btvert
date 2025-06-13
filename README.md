@@ -2,7 +2,7 @@
   <img src="images/readmebanner.png" alt="Banner" style="max-width: 100%; height: auto;" />
 </p>
 
-## **Welcome to my GitHub**
+<h1 align="center"><u><strong>Welcome to my GitHub</strong></u></h1>
 
 My name is Brandon but you can call me 0x. I go by 0x because my emails are all "0x***@proton.me". 
 
