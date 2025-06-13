@@ -1,32 +1,22 @@
 <p align="center">
-  <img src="images/starenvybanner.png" alt="Star Envy Banner" />
+  <img src="images/readmebanner.png" alt="Banner" style="max-width: 100%; height: auto;" />
 </p>
 
-<h1 align="center"><u><strong>Star Envy</strong></u></h1>
+<h1 align="center"><u><strong>Welcome to my GitHub</strong></u></h1>
 
-## **About**
+A paragraph about me goes here. This can include what you’re working on, your background, or what you enjoy doing.
 
-A paragraph about Star Envy is going to go here, no bullet.
+<p>
+  <img src="images/staricon.svg" width="16" style="filter: invert(100%); vertical-align: middle;" />
+  Contact: <a href="mailto:0x65d@proton.me">0x65d@proton.me</a>
+</p>
 
-<p><img src="images/staricon.svg" width="16" /> Bullet point about Star Envy (placeholder)</p>
-<p><img src="images/staricon.svg" width="16" /> Another point about Star Envy (placeholder)</p>
+## **Related Interests**
 
-<h1 align="center"><u><strong>Myself</strong></u></h1>
-
-## **Bio**
-
-A paragraph about myself goes here, no bullet.
-
-## **Interests**
-
-_These are only my related interests (disclaimer)._
-
-<p><img src="images/staricon.svg" width="16" /> Interest 1 (placeholder)</p>
-<p><img src="images/staricon.svg" width="16" /> Interest 2 (placeholder)</p>
-<p><img src="images/staricon.svg" width="16" /> Interest 3 (placeholder)</p>
-<p><img src="images/staricon.svg" width="16" /> Interest 4 (placeholder)</p>
-<p><img src="images/staricon.svg" width="16" /> Interest 5 (placeholder)</p>
-<p><img src="images/staricon.svg" width="16" /> Interest 6 (placeholder)</p>
+<p><img src="images/staricon.svg" width="16" style="filter: invert(100%); vertical-align: middle;" /> Interest 1 (placeholder)</p>
+<p><img src="images/staricon.svg" width="16" style="filter: invert(100%); vertical-align: middle;" /> Interest 2 (placeholder)</p>
+<p><img src="images/staricon.svg" width="16" style="filter: invert(100%); vertical-align: middle;" /> Interest 3 (placeholder)</p>
+<p><img src="images/staricon.svg" width="16" style="filter: invert(100%); vertical-align: middle;" /> Interest 4 (placeholder)</p>
 
 ---
 
