@@ -26,6 +26,7 @@ Below is the only one I use for mail purposes.
   <img src="images/staricon.svg" width="16" style="filter: invert(100%); vertical-align: middle;" />
   <a href="mailto:0x65d@proton.me">0x65d@proton.me</a>
 </p>
+
 ---
 
 <p align="center"><sub>© STAR ENVY LLC — All rights reserved 2025</sub></p>
