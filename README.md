@@ -16,7 +16,7 @@ Below is the only one I use for mail purposes.
 
 ## **Related Interests**
 
-<p><img src="images/staricon.svg" width="16" style="filter: invert(100%); vertical-align: middle;" /> Star Envy LLC (creator)</p>
+<p><img src="images/staricon.svg" width="16" style="filter: invert(100%); vertical-align: middle;" /> <a href="https://github.com/starenvy" target="_blank">Star Envy</a></p>
 <p><img src="images/staricon.svg" width="16" style="filter: invert(100%); vertical-align: middle;" /> Linux (xubuntu)</p>
 <p><img src="images/staricon.svg" width="16" style="filter: invert(100%); vertical-align: middle;" /> Local LLM (Qwen-2.5-7B)</p>
 <p><img src="images/staricon.svg" width="16" style="filter: invert(100%); vertical-align: middle;" /> Destiny 2 (PvP-only)</p>
